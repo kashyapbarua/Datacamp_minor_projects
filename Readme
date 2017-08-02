@@ -1,0 +1,4 @@
+Simpson's Paradox
+- On an overall basis, males are more likely to be admitted.
+- But within most departments, females are more likely to be admitted.
+- When controlling for department, relationship between gender and admission status is reversed and this is called the Simpson's Paradox.
