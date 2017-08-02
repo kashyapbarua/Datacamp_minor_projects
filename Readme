@@ -4,3 +4,4 @@ Simpson's Paradox
 - When controlling for department, relationship between gender and admission status is reversed and this is called the Simpson's Paradox.
 Potential Reason
 - Women tended to apply to competitive departments with low admission rates.
+- Men tended to apply to less competitive departments with high admission rates.
